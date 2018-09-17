@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 you know nothing!
+=======
+newbrance came!		
+
+
+
+		why are you so hungry!
+>>>>>>> newbrance
